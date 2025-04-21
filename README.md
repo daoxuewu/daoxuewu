@@ -3,7 +3,7 @@
 
 <!-- **daoxuewu/daoxuewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- ✨ I am currently a first-year graduate student pursuing a Master’s degree in Electrical Engineering at [National Cheng Kung University](https://web.ncku.edu.tw/).
+- ✨ I am currently a first-year graduate student pursuing a Master’s degree in Electrical Engineering at [NCKU](https://web.ncku.edu.tw/).
 - 🔭 I was a software engineering intern at [CHING GU ELECTRONICS](https://www.cg119.com.tw/) (one year)
 - 🌱 I'm currently learning maching learning, linux kernel
 <!-- - 👯 I’m looking to collaborate on ...
